@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Kievit-Kylar on George Kachergis</title>
+    <link>/authors/b.-kievit-kylar/</link>
+    <description>Recent content in B. Kievit-Kylar on George Kachergis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/authors/b.-kievit-kylar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Naturalistic word-concept pair learning with semantic spaces</title>
+      <link>/publication/kievit-kylar-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kievit-kylar-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. M. Shiffrin on George Kachergis</title>
+    <link>/authors/r.-m.-shiffrin/</link>
+    <description>Recent content in R. M. Shiffrin on George Kachergis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/authors/r.-m.-shiffrin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cross-situational word learning is both implicit and strategic</title>
+      <link>/publication/kachergis-2014-imp/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2014-imp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing semantic knowledge through cross-situational learning</title>
+      <link>/publication/kachergis-2014-xsl/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2014-xsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similarity and strategic effects in recognition memory</title>
+      <link>/publication/cox-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/cox-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of repeated sequential context on recognition memory</title>
+      <link>/publication/kachergis-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Process Regression for Trajectory Analysis</title>
+      <link>/publication/cox-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/cox-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Magnitude and Valence Biases in a Dynamic Memory Task</title>
+      <link>/publication/kachergis-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

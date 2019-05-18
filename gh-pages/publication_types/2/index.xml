@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on George Kachergis</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on George Kachergis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anthropomorphization of artificial agents leads to fair and strategic, but not altruistic behavior</title>
+      <link>/publication/de-kleijn-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/de-kleijn-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive movements in human reinforcement learning of sequential action</title>
+      <link>/publication/de-kleijn-2018-human-rl/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/de-kleijn-2018-human-rl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Learning: Associations or Hypothesis Testing?</title>
+      <link>/publication/kachergis-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desirable difficulties in the development of active inquiry skills</title>
+      <link>/publication/kachergis-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A continuous time neural model for sequential action</title>
+      <link>/publication/kachergis-2014-neur/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2014-neur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-situational word learning is both implicit and strategic</title>
+      <link>/publication/kachergis-2014-imp/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2014-imp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Everyday robotic action: Lessons from human action control</title>
+      <link>/publication/de-kleijn-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/de-kleijn-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An associative model of adaptive inference for learning word--referent mappings</title>
+      <link>/publication/kachergis-2012-gi/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2012-gi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Scalable Holographic Word-form Representation</title>
+      <link>/publication/cox-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/cox-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
