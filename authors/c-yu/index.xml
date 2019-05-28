@@ -6,10 +6,19 @@
     <description>Recent content in C Yu on George Kachergis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/authors/c-yu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A bootstrapping model of frequency and contextual diversity effects in word learning</title>
+      <link>/publication/kachergis-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2016/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Continuous measure of word learning supports associative model</title>
@@ -17,6 +26,15 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
       
       <guid>/publication/kachergis-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Actively Learning Object Names Across Ambiguous Situations</title>
+      <link>/publication/kachergis-2013-act/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2013-act/</guid>
       <description></description>
     </item>
     

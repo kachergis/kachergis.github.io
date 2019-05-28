@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>S. Hidaka</title>
+      <link>/authors/s.-hidaka/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/authors/s.-hidaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>T. M. Gureckis</title>
       <link>/authors/t.-m.-gureckis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
@@ -80,6 +89,15 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
       
       <guid>/authors/t.-regier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Torii</title>
+      <link>/authors/t.-torii/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/authors/t.-torii/</guid>
       <description></description>
     </item>
     
@@ -156,11 +174,29 @@
     </item>
     
     <item>
+      <title>G. Cox</title>
+      <link>/authors/g.-cox/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/authors/g.-cox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>L. van Es</title>
       <link>/authors/l.-van-es/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
       
       <guid>/authors/l.-van-es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. M. Shiffrin</title>
+      <link>/authors/r.-m.-shiffrin/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/authors/r.-m.-shiffrin/</guid>
       <description></description>
     </item>
     
@@ -174,6 +210,15 @@
     </item>
     
     <item>
+      <title>C. Yu</title>
+      <link>/authors/c.-yu/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/authors/c.-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>D. Markant</title>
       <link>/authors/d.-markant/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
@@ -183,7 +228,7 @@
     </item>
     
     <item>
-      <title>K. Adams</title>
+      <title>K. *Adams</title>
       <link>/authors/k.-adams/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
@@ -219,29 +264,38 @@
     </item>
     
     <item>
-      <title>T. Gureckis</title>
-      <link>/authors/t.-gureckis/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/t.-gureckis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>C Yu</title>
       <link>/authors/c-yu/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
       
       <guid>/authors/c-yu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>C. Yu</title>
-      <link>/authors/c.-yu/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      <title>F. Berends</title>
+      <link>/authors/f.-berends/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
       
-      <guid>/authors/c.-yu/</guid>
+      <guid>/authors/f.-berends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R M Shiffrin</title>
+      <link>/authors/r-m-shiffrin/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
+      
+      <guid>/authors/r-m-shiffrin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Gureckis</title>
+      <link>/authors/t.-gureckis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
+      
+      <guid>/authors/t.-gureckis/</guid>
       <description></description>
     </item>
     
@@ -255,29 +309,11 @@
     </item>
     
     <item>
-      <title>F. Berends</title>
-      <link>/authors/f.-berends/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/f.-berends/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R. C. O&#39;Reilly</title>
       <link>/authors/r.-c.-oreilly/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
       
       <guid>/authors/r.-c.-oreilly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. M. Shiffrin</title>
-      <link>/authors/r.-m.-shiffrin/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/r.-m.-shiffrin/</guid>
       <description></description>
     </item>
     
@@ -341,15 +377,6 @@
       <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
       
       <guid>/authors/george-kachergis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R M Shiffrin</title>
-      <link>/authors/r-m-shiffrin/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/r-m-shiffrin/</guid>
       <description></description>
     </item>
     

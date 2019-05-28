@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Active learners learn what simple samplers cannot: A Zipf-distributed vocabulary from limited data</title>
+      <link>/publication/hidaka-submitted/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/hidaka-submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computational and robotic models of early language development: A review</title>
       <link>/publication/oudeyer-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
@@ -84,6 +93,15 @@
     </item>
     
     <item>
+      <title>Trade-offs between category size and item distinctiveness in recognition memory for unfamiliar artificial stimuli: A model-based analysis</title>
+      <link>/publication/cox-submitted/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/cox-submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Children&#39;s familiarity preference in self-directed study improves recognition memory</title>
       <link>/publication/adams-2017-mem/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
@@ -94,10 +112,10 @@
     
     <item>
       <title>Desirable difficulties in the development of active inquiry skills</title>
-      <link>/publication/kachergis-2017/</link>
+      <link>/publication/kachergis-2017-cog/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
-      <guid>/publication/kachergis-2017/</guid>
+      <guid>/publication/kachergis-2017-cog/</guid>
       <description></description>
     </item>
     
@@ -111,11 +129,38 @@
     </item>
     
     <item>
-      <title>Desirable difficulties in the development of active inquiry skills</title>
-      <link>/publication/kachergis-2016/</link>
+      <title>Observing and modeling developing knowledge and uncertainty during cross-situational word learning</title>
+      <link>/publication/kachergis-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dream Model: Reactivation and re-encoding mechanisms for sleep-dependent memory consolidation</title>
+      <link>/publication/kachergis-2016-dream/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
       
-      <guid>/publication/kachergis-2016/</guid>
+      <guid>/publication/kachergis-2016-dream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desirable difficulties in the development of active inquiry skills</title>
+      <link>/publication/kachergis-2016-bug/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2016-bug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human reinforcement learning of sequential action</title>
+      <link>/publication/kachergis-2016-human-rl/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2016-human-rl/</guid>
       <description></description>
     </item>
     
@@ -233,6 +278,15 @@
       <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
       
       <guid>/publication/cox-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanisms for cross-situational learning of word-referent mappings: Empirical and modeling evidence</title>
+      <link>/publication/kachergis-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/kachergis-2012/</guid>
       <description></description>
     </item>
     

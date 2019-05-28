@@ -14,6 +14,12 @@
   </url>
   
   <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/publication_types/6/</loc>
     <lastmod>2019-01-01T00:00:00-08:00</lastmod>
     <priority>0</priority>
@@ -23,6 +29,11 @@
     <loc>/authors/a.-carstensen/</loc>
     <lastmod>2019-01-01T00:00:00-08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/hidaka-submitted/</loc>
+    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
   </url>
   
   <url>
@@ -94,6 +105,12 @@
   </url>
   
   <url>
+    <loc>/authors/s.-hidaka/</loc>
+    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/t.-m.-gureckis/</loc>
     <lastmod>2019-01-01T00:00:00-08:00</lastmod>
     <priority>0</priority>
@@ -101,6 +118,12 @@
   
   <url>
     <loc>/authors/t.-regier/</loc>
+    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/t.-torii/</loc>
     <lastmod>2019-01-01T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -165,6 +188,12 @@
   </url>
   
   <url>
+    <loc>/authors/g.-cox/</loc>
+    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/l.-van-es/</loc>
     <lastmod>2018-01-01T00:00:00-08:00</lastmod>
     <priority>0</priority>
@@ -181,6 +210,12 @@
   </url>
   
   <url>
+    <loc>/authors/r.-m.-shiffrin/</loc>
+    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/r.-de-kleijn/</loc>
     <lastmod>2018-01-01T00:00:00-08:00</lastmod>
     <priority>0</priority>
@@ -192,8 +227,19 @@
   </url>
   
   <url>
+    <loc>/publication/cox-submitted/</loc>
+    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/kachergis-2018/</loc>
     <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-yu/</loc>
+    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -208,7 +254,7 @@
   </url>
   
   <url>
-    <loc>/publication/kachergis-2017/</loc>
+    <loc>/publication/kachergis-2017-cog/</loc>
     <lastmod>2017-01-01T00:00:00-08:00</lastmod>
   </url>
   
@@ -225,6 +271,11 @@
   
   <url>
     <loc>/publication/hidaka-2017-me/</loc>
+    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/kachergis-2017/</loc>
     <lastmod>2017-01-01T00:00:00-08:00</lastmod>
   </url>
   
@@ -252,8 +303,41 @@
   </url>
   
   <url>
+    <loc>/publication/kachergis-2016-dream/</loc>
+    <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/kachergis-2016/</loc>
     <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c-yu/</loc>
+    <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/kachergis-2016-bug/</loc>
+    <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/f.-berends/</loc>
+    <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/kachergis-2016-human-rl/</loc>
+    <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r-m-shiffrin/</loc>
+    <lastmod>2016-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -275,18 +359,6 @@
   <url>
     <loc>/publication/kachergis-2014-neur/</loc>
     <lastmod>2014-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/c-yu/</loc>
-    <lastmod>2014-01-01T00:00:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/c.-yu/</loc>
-    <lastmod>2014-01-01T00:00:00-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -316,19 +388,7 @@
   </url>
   
   <url>
-    <loc>/authors/f.-berends/</loc>
-    <lastmod>2014-01-01T00:00:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/r.-c.-oreilly/</loc>
-    <lastmod>2014-01-01T00:00:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/r.-m.-shiffrin/</loc>
     <lastmod>2014-01-01T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -341,6 +401,11 @@
   <url>
     <loc>/publication/kachergis-2014-traj-srt/</loc>
     <lastmod>2014-01-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/kachergis-2013-act/</loc>
+    <lastmod>2013-01-01T00:00:00-08:00</lastmod>
   </url>
   
   <url>
@@ -379,6 +444,12 @@
   <url>
     <loc>/publication/kachergis-2013/</loc>
     <lastmod>2013-01-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/4/</loc>
+    <lastmod>2012-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -431,9 +502,8 @@
   </url>
   
   <url>
-    <loc>/authors/r-m-shiffrin/</loc>
+    <loc>/publication/kachergis-2012/</loc>
     <lastmod>2012-01-01T00:00:00-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
