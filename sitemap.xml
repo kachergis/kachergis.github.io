@@ -158,6 +158,12 @@
   </url>
   
   <url>
+    <loc>/authors/b.-persad/</loc>
+    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/b.-and-sick/</loc>
     <lastmod>2018-01-01T00:00:00-08:00</lastmod>
     <priority>0</priority>
@@ -182,6 +188,11 @@
   </url>
   
   <url>
+    <loc>/publication/kielstra-2018/</loc>
+    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/g-kachergis/</loc>
     <lastmod>2018-01-01T00:00:00-08:00</lastmod>
     <priority>0</priority>
@@ -189,6 +200,24 @@
   
   <url>
     <loc>/authors/g.-cox/</loc>
+    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/i.-molenaar/</loc>
+    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-kielstra/</loc>
+    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/l.-bokkers/</loc>
     <lastmod>2018-01-01T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
