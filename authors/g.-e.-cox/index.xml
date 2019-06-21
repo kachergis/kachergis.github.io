@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. E. Cox on George Kachergis</title>
+    <link>https://kachergis.github.io/authors/g.-e.-cox/</link>
+    <description>Recent content in G. E. Cox on George Kachergis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://kachergis.github.io/authors/g.-e.-cox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Similarity and strategic effects in recognition memory</title>
+      <link>https://kachergis.github.io/publication/cox-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      
+      <guid>https://kachergis.github.io/publication/cox-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of repeated sequential context on recognition memory</title>
+      <link>https://kachergis.github.io/publication/kachergis-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      
+      <guid>https://kachergis.github.io/publication/kachergis-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Process Regression for Trajectory Analysis</title>
+      <link>https://kachergis.github.io/publication/cox-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      
+      <guid>https://kachergis.github.io/publication/cox-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OrBEAGLE: Integrating Orthography into a Holographic Model of the Lexicon</title>
+      <link>https://kachergis.github.io/publication/kachergis-2011-orb/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      
+      <guid>https://kachergis.github.io/publication/kachergis-2011-orb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Scalable Holographic Word-form Representation</title>
+      <link>https://kachergis.github.io/publication/cox-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      
+      <guid>https://kachergis.github.io/publication/cox-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
