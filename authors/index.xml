@@ -7,10 +7,109 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kachergis.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>B. Long</title>
+      <link>https://kachergis.github.io/authors/b.-long/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/b.-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Kachergis</title>
+      <link>https://kachergis.github.io/authors/g.-kachergis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/g.-kachergis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Toni</title>
+      <link>https://kachergis.github.io/authors/i.-toni/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/i.-toni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. van Rooij</title>
+      <link>https://kachergis.github.io/authors/i.-van-rooij/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/i.-van-rooij/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Agrawal</title>
+      <link>https://kachergis.github.io/authors/k.-agrawal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/k.-agrawal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Mahowald</title>
+      <link>https://kachergis.github.io/authors/k.-mahowald/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/k.-mahowald/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Blokpoel</title>
+      <link>https://kachergis.github.io/authors/m.-blokpoel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/m.-blokpoel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. C. Frank</title>
+      <link>https://kachergis.github.io/authors/m.-c.-frank/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/m.-c.-frank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Dingemanse</title>
+      <link>https://kachergis.github.io/authors/m.-dingemanse/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/m.-dingemanse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Bögels</title>
+      <link>https://kachergis.github.io/authors/s.-b%C3%B6gels/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/s.-b%C3%B6gels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the CABB team</title>
+      <link>https://kachergis.github.io/authors/the-cabb-team/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/the-cabb-team/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A. Carstensen</title>
@@ -27,15 +126,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
       
       <guid>https://kachergis.github.io/authors/c.-grimmick/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G. Kachergis</title>
-      <link>https://kachergis.github.io/authors/g.-kachergis/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      
-      <guid>https://kachergis.github.io/authors/g.-kachergis/</guid>
       <description></description>
     </item>
     
@@ -108,6 +198,33 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
       
       <guid>https://kachergis.github.io/authors/w.-schueller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Lai</title>
+      <link>https://kachergis.github.io/authors/e.-lai/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/e.-lai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Chan</title>
+      <link>https://kachergis.github.io/authors/p.-chan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/p.-chan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Wong</title>
+      <link>https://kachergis.github.io/authors/p.-wong/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kachergis.github.io/authors/p.-wong/</guid>
       <description></description>
     </item>
     

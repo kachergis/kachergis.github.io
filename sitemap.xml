@@ -3,18 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kachergis.github.io/publication_types/2/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/publication_types/3/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/b.-long/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/publication/long-headcam/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/g.-kachergis/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/i.-toni/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/i.-van-rooij/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/k.-agrawal/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/k.-mahowald/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/m.-blokpoel/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/m.-c.-frank/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/m.-dingemanse/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/publication/blokpoel-submitted/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/publication_types/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/publication/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/s.-b%C3%B6gels/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/publication/mahowald-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/the-cabb-team/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kachergis.github.io/publication/carstensen-2019/</loc>
     <lastmod>2019-01-01T00:00:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://kachergis.github.io/publication_types/1/</loc>
-    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kachergis.github.io/publication_types/3/</loc>
     <lastmod>2019-01-01T00:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -34,12 +144,6 @@
   <url>
     <loc>https://kachergis.github.io/publication/hidaka-submitted/</loc>
     <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kachergis.github.io/authors/</loc>
-    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -64,18 +168,6 @@
   </url>
   
   <url>
-    <loc>https://kachergis.github.io/authors/g.-kachergis/</loc>
-    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kachergis.github.io/</loc>
-    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kachergis.github.io/authors/m.-rhodes/</loc>
     <lastmod>2019-01-01T00:00:00-08:00</lastmod>
     <priority>0</priority>
@@ -91,17 +183,6 @@
     <loc>https://kachergis.github.io/authors/p.-y.-oudeyer/</loc>
     <lastmod>2019-01-01T00:00:00-08:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kachergis.github.io/publication_types/</loc>
-    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kachergis.github.io/publication/</loc>
-    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
   </url>
   
   <url>
@@ -135,8 +216,25 @@
   </url>
   
   <url>
-    <loc>https://kachergis.github.io/publication_types/2/</loc>
-    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
+    <loc>https://kachergis.github.io/publication/long-curiobaby/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/e.-lai/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/p.-chan/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kachergis.github.io/authors/p.-wong/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
