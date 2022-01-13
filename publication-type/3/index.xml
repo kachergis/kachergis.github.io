@@ -5,26 +5,18 @@
     <link>https://kachergis.github.io/publication-type/3/</link>
       <atom:link href="https://kachergis.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 15 Feb 2021 18:56:51 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 George Kachergis</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kachergis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kachergis.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://kachergis.github.io/publication-type/3/</link>
     </image>
     
     <item>
-      <title>Deep reinforcement learning of sequential action results in human-like optimization in a robotic arm controller</title>
+      <title>A critical period for robust curriculum-based deep reinforcement learning of sequential action in a robot arm</title>
       <link>https://kachergis.github.io/publication/deeparm/</link>
-      <pubDate>Mon, 15 Feb 2021 18:56:51 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/deeparm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting children&#39;s and adults&#39; preferences in physical interactions via physics simulation</title>
-      <link>https://kachergis.github.io/publication/curiodrop/</link>
-      <pubDate>Mon, 15 Feb 2021 18:56:51 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/curiodrop/</guid>
       <description></description>
     </item>
     
@@ -37,10 +29,18 @@
     </item>
     
     <item>
-      <title>Characterizing the object categories two children see and interact with in a dense dataset of naturalistic visual experience</title>
-      <link>https://kachergis.github.io/publication/babyview/</link>
+      <title>A longitudinal analysis of the social information in infants&#39; naturalistic visual experience using automated detections</title>
+      <link>https://kachergis.github.io/publication/saycam/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/babyview/</guid>
+      <guid>https://kachergis.github.io/publication/saycam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing apples to manzanas and oranges to naranjas: A new measure of English-Spanish vocabulary for dual language learners</title>
+      <link>https://kachergis.github.io/publication/dll/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/dll/</guid>
       <description></description>
     </item>
     
@@ -61,10 +61,10 @@
     </item>
     
     <item>
-      <title>Peekbank: Exploring children&#39;s word recognition through an open, large-scale repository for developmental eye-tracking data</title>
-      <link>https://kachergis.github.io/publication/peekbank/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/peekbank/</guid>
+      <title>Consistency and variability between cultures during toddlers&#39; naturalistic play</title>
+      <link>https://kachergis.github.io/publication/long-curiobaby/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/long-curiobaby/</guid>
       <description></description>
     </item>
     
@@ -77,26 +77,26 @@
     </item>
     
     <item>
-      <title>Active learners learn what simple samplers cannot: A Zipf-distributed vocabulary from limited data</title>
-      <link>https://kachergis.github.io/publication/hidaka-submitted/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
-      <guid>https://kachergis.github.io/publication/hidaka-submitted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Consistency and variability between cultures during toddlers&#39; naturalistic play</title>
-      <link>https://kachergis.github.io/publication/long-curiobaby/</link>
+      <title>Active learners learn what simple samplers cannot- A Zipf-distributed vocabulary from limited data</title>
+      <link>https://kachergis.github.io/publication/hidakasubmitted/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/long-curiobaby/</guid>
+      <guid>https://kachergis.github.io/publication/hidakasubmitted/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Trade-offs between category size and item distinctiveness in recognition memory for unfamiliar artificial stimuli: A model-based analysis</title>
-      <link>https://kachergis.github.io/publication/cox-submitted/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
-      <guid>https://kachergis.github.io/publication/cox-submitted/</guid>
+      <title>Detecting deceptive agents in online games of Mafia</title>
+      <link>https://kachergis.github.io/publication/de-ruiter-submitted/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/de-ruiter-submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#39;Trade-offs between category size and item distinctiveness in recognition memory for unfamiliar artificial stimuli: A model-based analysis&#39;</title>
+      <link>https://kachergis.github.io/publication/coxsubmitted/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/coxsubmitted/</guid>
       <description></description>
     </item>
     

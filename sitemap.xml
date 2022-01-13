@@ -1,415 +1,387 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>https://kachergis.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
   
   <url>
-    <loc>https://kachergis.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:31:13-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication-type/3/</loc>
-    <lastmod>2021-02-15T18:56:51+00:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication-type/1/</loc><lastmod>2022-01-12T15:30:10-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/deeparm/</loc>
-    <lastmod>2021-02-15T18:56:51+00:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication-type/2/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/curiodrop/</loc>
-    <lastmod>2021-02-15T18:56:51+00:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication-type/3/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication_types/</loc>
-    <lastmod>2021-02-15T18:56:51+00:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/deeparm/</loc><lastmod>2022-01-12T15:29:54-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/</loc>
-    <lastmod>2021-02-15T18:56:51+00:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/bakeoff/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/bakeoff/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/saycam/</loc><lastmod>2022-01-12T16:47:12-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/babyview/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:54-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/long-2021/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:54-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/mbafrica/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/cdicat/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/peekbank/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication-type/2/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:03-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/blokpoel-2020/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:31:13-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/mahowald-2020/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/babyview/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/dll/</loc><lastmod>2022-01-12T16:31:13-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:53-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication-type/1/</loc>
-    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:54-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication-type/6/</loc>
-    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:53-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/hidaka-submitted/</loc>
-    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:31:13-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/oudeyer-2019/</loc>
-    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/long-2021/</loc><lastmod>2022-01-12T15:29:54-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/grimmick-2019/</loc>
-    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/tag/development/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2019/</loc>
-    <lastmod>2019-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/long-curiobaby/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/mbafrica/</loc><lastmod>2022-01-12T15:29:54-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kielstra-2018/</loc>
-    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/de-kleijn-2018-robo/</loc>
-    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/de-kleijn-2018-human-rl/</loc>
-    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kottke-2018/</loc>
-    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:53-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/cox-submitted/</loc>
-    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2018/</loc>
-    <lastmod>2018-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:47:12-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/adams-2017-mem/</loc>
-    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2017-cog/</loc>
-    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:03-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/adams-2017/</loc>
-    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:31:13-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/hidaka-2017-me/</loc>
-    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:03-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2017/</loc>
-    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/tag/modeling/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/hidaka-2017/</loc>
-    <lastmod>2017-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/peekbank/</loc><lastmod>2022-01-12T16:48:03-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/curiodrop/</loc><lastmod>2022-01-12T15:29:53-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/tags/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication_types/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2016/</loc>
-    <lastmod>2016-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2016-dream/</loc>
-    <lastmod>2016-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:30:03-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2016-bug/</loc>
-    <lastmod>2016-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:31:13-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2016-human-rl/</loc>
-    <lastmod>2016-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:53-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/de-kleijn-2015/</loc>
-    <lastmod>2015-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/tags/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2015/</loc>
-    <lastmod>2015-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/standard-2021/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2014-neur/</loc>
-    <lastmod>2014-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/parentingobs/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2014/</loc>
-    <lastmod>2014-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2014-imp/</loc>
-    <lastmod>2014-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2014-xsl/</loc>
-    <lastmod>2014-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/de-kleijn-2014/</loc>
-    <lastmod>2014-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/tag/word-learning/</loc><lastmod>2022-01-12T16:48:04-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2014-srt/</loc>
-    <lastmod>2014-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2014-traj-srt/</loc>
-    <lastmod>2014-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2013-act/</loc>
-    <lastmod>2013-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2013-natxsl/</loc>
-    <lastmod>2013-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kievit-kylar-2013/</loc>
-    <lastmod>2013-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/cox-2013/</loc>
-    <lastmod>2013-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2013/</loc>
-    <lastmod>2013-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication-type/4/</loc>
-    <lastmod>2012-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2012-wp/</loc>
-    <lastmod>2012-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2012-gi/</loc>
-    <lastmod>2012-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/long-curiobaby/</loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2012-hyp/</loc>
-    <lastmod>2012-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/cox-2012/</loc>
-    <lastmod>2012-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2012-vc/</loc>
-    <lastmod>2012-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2012/</loc>
-    <lastmod>2012-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/hendrickson-2012/</loc>
-    <lastmod>2012-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2011/</loc>
-    <lastmod>2011-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2011-orb/</loc>
-    <lastmod>2011-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/cox-2011/</loc>
-    <lastmod>2011-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/trueblood-2010/</loc>
-    <lastmod>2010-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/blokpoel-2020/</loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2010-wg/</loc>
-    <lastmod>2010-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2010-im/</loc>
-    <lastmod>2010-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/hendrickson-2010/</loc>
-    <lastmod>2010-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/mahowald-2020/</loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/gangwani-2010-wt/</loc>
-    <lastmod>2010-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2009-vu/</loc>
-    <lastmod>2009-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/kachergis-2009-tc/</loc>
-    <lastmod>2009-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication-type/6/</loc><lastmod>2022-01-12T15:30:01-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/publication/barbella-2007/</loc>
-    <lastmod>2007-01-01T00:00:00-08:00</lastmod>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/hidakasubmitted/</loc><lastmod>2022-01-12T15:29:56-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/admin/</loc>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc></loc>
-  </url>
-  
+    <loc></loc><lastmod>2022-01-12T15:29:56-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/categories/</loc>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/oudeyer-2019/</loc><lastmod>2022-01-12T15:29:57-08:00</lastmod></url>
   <url>
-    <loc></loc>
-  </url>
-  
+    <loc>https://kachergis.github.io/publication/de-ruiter-submitted/</loc><lastmod>2022-01-12T15:29:55-08:00</lastmod></url>
   <url>
-    <loc>https://kachergis.github.io/post/</loc>
-  </url>
-  
-</urlset>
+    <loc>https://kachergis.github.io/publication/grimmick-2019/</loc><lastmod>2022-01-12T15:29:56-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2019/</loc><lastmod>2022-01-12T15:29:56-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:00-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:57-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:56-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:07-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:56-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:57-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/coxsubmitted/</loc><lastmod>2022-01-12T15:29:56-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:58-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/de-kleijn-2018/</loc><lastmod>2022-01-12T15:29:57-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:58-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:03-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:58-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:58-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:58-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:58-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kielstra-2018/</loc><lastmod>2022-01-12T15:29:58-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:10-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:56-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:58-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:58-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:58-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:57-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/de-kleijn-2018-robo/</loc><lastmod>2022-01-12T15:29:58-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/de-kleijn-2018-human-rl/</loc><lastmod>2022-01-12T15:29:59-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:06-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kottke-2018/</loc><lastmod>2022-01-12T15:29:58-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2018/</loc><lastmod>2022-01-12T15:29:57-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/hidaka-2017-me/</loc><lastmod>2022-01-12T15:29:59-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/tag/active-learning/</loc><lastmod>2022-01-12T15:30:00-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:03-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/tag/categorization/</loc><lastmod>2022-01-12T15:30:00-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/adams-2017-mem/</loc><lastmod>2022-01-12T15:30:00-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:00-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2017-cog/</loc><lastmod>2022-01-12T15:29:59-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/tag/developmental/</loc><lastmod>2022-01-12T15:30:00-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/adams-2017/</loc><lastmod>2022-01-12T15:30:00-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:00-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/tag/memory/</loc><lastmod>2022-01-12T15:30:00-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2017/</loc><lastmod>2022-01-12T15:29:59-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/hidaka-2017/</loc><lastmod>2022-01-12T15:29:58-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:59-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:59-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:29:59-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2016/</loc><lastmod>2022-01-12T15:30:08-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2016-dream/</loc><lastmod>2022-01-12T15:30:00-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:10-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2016-bug/</loc><lastmod>2022-01-12T15:30:00-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:02-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2016-human-rl/</loc><lastmod>2022-01-12T15:30:00-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:10-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:00-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/de-kleijn-2015/</loc><lastmod>2022-01-12T15:30:01-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2015/</loc><lastmod>2022-01-12T15:30:01-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2014-neur/</loc><lastmod>2022-01-12T15:30:01-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2014/</loc><lastmod>2022-01-12T15:30:07-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2014-imp/</loc><lastmod>2022-01-12T15:30:02-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:01-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2014-xsl/</loc><lastmod>2022-01-12T15:30:02-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/de-kleijn-2014/</loc><lastmod>2022-01-12T15:30:03-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:01-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2014-srt/</loc><lastmod>2022-01-12T15:30:01-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2014-traj-srt/</loc><lastmod>2022-01-12T15:30:02-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2013-act/</loc><lastmod>2022-01-12T15:30:07-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:03-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:06-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:06-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2013-natxsl/</loc><lastmod>2022-01-12T15:30:03-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kievit-kylar-2013/</loc><lastmod>2022-01-12T15:30:03-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/cox-2013/</loc><lastmod>2022-01-12T15:30:03-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2013/</loc><lastmod>2022-01-12T15:30:03-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication-type/7/</loc><lastmod>2022-01-12T15:30:04-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:07-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2012-wp/</loc><lastmod>2022-01-12T15:30:04-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2012-gi/</loc><lastmod>2022-01-12T15:30:09-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:05-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:09-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2012-hyp/</loc><lastmod>2022-01-12T15:30:10-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/cox-2012/</loc><lastmod>2022-01-12T15:30:05-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:09-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2012-vc/</loc><lastmod>2022-01-12T15:30:04-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2012/</loc><lastmod>2022-01-12T15:30:04-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:07-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/hendrickson-2012/</loc><lastmod>2022-01-12T15:30:05-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:09-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2011/</loc><lastmod>2022-01-12T15:30:06-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:06-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2011-orb/</loc><lastmod>2022-01-12T15:30:06-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/cox-2011/</loc><lastmod>2022-01-12T15:30:05-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/trueblood-2010/</loc><lastmod>2022-01-12T15:30:06-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2010-wg/</loc><lastmod>2022-01-12T15:30:09-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2010-im/</loc><lastmod>2022-01-12T15:30:09-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/hendrickson-2010/</loc><lastmod>2022-01-12T15:30:07-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:06-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:06-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/gangwani-2010-wt/</loc><lastmod>2022-01-12T15:30:08-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:08-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2009-vu/</loc><lastmod>2022-01-12T15:30:09-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:08-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/kachergis-2009-tc/</loc><lastmod>2022-01-12T15:30:08-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:07-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:07-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:07-08:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-01-12T15:30:07-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/publication/barbella-2007/</loc><lastmod>2022-01-12T15:30:07-08:00</lastmod></url>
+  <url>
+    <loc>https://kachergis.github.io/admin/</loc></url>
+  <url>
+    <loc>https://kachergis.github.io/event/</loc></url></urlset>

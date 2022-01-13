@@ -5,12 +5,52 @@
     <link>https://kachergis.github.io/publication-type/2/</link>
       <atom:link href="https://kachergis.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 George Kachergis</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kachergis.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kachergis.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://kachergis.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>An Online Computerized Adaptive Test (CAT) of Children&#39;s Vocabulary Development in English and Mexican Spanish</title>
+      <link>https://kachergis.github.io/publication/cdicat/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/cdicat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing the object categories two children see and interact with in a dense dataset of naturalistic visual experience</title>
+      <link>https://kachergis.github.io/publication/babyview/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/babyview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peekbank: Exploring children&#39;s word recognition through an open, large-scale repository for developmental eye-tracking data</title>
+      <link>https://kachergis.github.io/publication/peekbank/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/peekbank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a &#34;Standard Model&#34; of Early Language Learning</title>
+      <link>https://kachergis.github.io/publication/standard-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/standard-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the impacts of video-guided activities on parent-child interaction</title>
+      <link>https://kachergis.github.io/publication/parentingobs/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/parentingobs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What counts as an exemplar model, anyway? A commentary on Ambridge (2020)</title>
@@ -21,9 +61,17 @@
     </item>
     
     <item>
+      <title>Anthropomorphization of artificial agents leads to fair and strategic, but not altruistic behavior</title>
+      <link>https://kachergis.github.io/publication/de-kleijn-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/de-kleijn-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predictive movements in human reinforcement learning of sequential action</title>
       <link>https://kachergis.github.io/publication/de-kleijn-2018-human-rl/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/de-kleijn-2018-human-rl/</guid>
       <description></description>
     </item>
@@ -31,7 +79,7 @@
     <item>
       <title>Word Learning: Associations or Hypothesis Testing?</title>
       <link>https://kachergis.github.io/publication/kachergis-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/kachergis-2018/</guid>
       <description></description>
     </item>
@@ -39,7 +87,7 @@
     <item>
       <title>Desirable difficulties in the development of active inquiry skills</title>
       <link>https://kachergis.github.io/publication/kachergis-2017-cog/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/kachergis-2017-cog/</guid>
       <description></description>
     </item>
@@ -47,7 +95,7 @@
     <item>
       <title>Observing and modeling developing knowledge and uncertainty during cross-situational word learning</title>
       <link>https://kachergis.github.io/publication/kachergis-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/kachergis-2017/</guid>
       <description></description>
     </item>
@@ -55,7 +103,7 @@
     <item>
       <title>A bootstrapping model of frequency and contextual diversity effects in word learning</title>
       <link>https://kachergis.github.io/publication/kachergis-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/kachergis-2016/</guid>
       <description></description>
     </item>
@@ -63,7 +111,7 @@
     <item>
       <title>A continuous time neural model for sequential action</title>
       <link>https://kachergis.github.io/publication/kachergis-2014-neur/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/kachergis-2014-neur/</guid>
       <description></description>
     </item>
@@ -71,7 +119,7 @@
     <item>
       <title>Cross-situational word learning is both implicit and strategic</title>
       <link>https://kachergis.github.io/publication/kachergis-2014-imp/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/kachergis-2014-imp/</guid>
       <description></description>
     </item>
@@ -79,7 +127,7 @@
     <item>
       <title>Everyday robotic action: Lessons from human action control</title>
       <link>https://kachergis.github.io/publication/de-kleijn-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/de-kleijn-2014/</guid>
       <description></description>
     </item>
@@ -87,7 +135,7 @@
     <item>
       <title>Actively Learning Object Names Across Ambiguous Situations</title>
       <link>https://kachergis.github.io/publication/kachergis-2013-act/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/kachergis-2013-act/</guid>
       <description></description>
     </item>
@@ -95,7 +143,7 @@
     <item>
       <title>An associative model of adaptive inference for learning word--referent mappings</title>
       <link>https://kachergis.github.io/publication/kachergis-2012-gi/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/kachergis-2012-gi/</guid>
       <description></description>
     </item>
@@ -103,7 +151,7 @@
     <item>
       <title>Towards a Scalable Holographic Word-form Representation</title>
       <link>https://kachergis.github.io/publication/cox-2011/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/cox-2011/</guid>
       <description></description>
     </item>
