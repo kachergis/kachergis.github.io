@@ -5,12 +5,68 @@
     <link>https://kachergis.github.io/publication/</link>
       <atom:link href="https://kachergis.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 George Kachergis</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 George Kachergis</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kachergis.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://kachergis.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A longitudinal analysis of the social information in infants&#39; naturalistic visual experience using automated detections</title>
+      <link>https://kachergis.github.io/publication/long-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/long-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An automated classifier for child-directed speech from LENA recordings</title>
+      <link>https://kachergis.github.io/publication/bang-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/bang-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Behavioral Optimization in a Robotic Serial Reaching Task using Predictive Information</title>
+      <link>https://kachergis.github.io/publication/sen-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/sen-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating demographic bias on tests of children’s early vocabulary</title>
+      <link>https://kachergis.github.io/publication/kachergis-2022-topics/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/kachergis-2022-topics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating demographic bias on tests of children’s early vocabulary</title>
+      <link>https://kachergis.github.io/publication/kachergis-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/kachergis-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peekbank: An open, large-scale repository for developmental eye-tracking data of children’s word recognition</title>
+      <link>https://kachergis.github.io/publication/zettersten-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/zettersten-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plurality is a good start, but it&#39;s time for unification</title>
+      <link>https://kachergis.github.io/publication/kachergis-2022-commentary/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/kachergis-2022-commentary/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A critical period for robust curriculum-based deep reinforcement learning of sequential action in a robot arm</title>
@@ -117,6 +173,14 @@
     </item>
     
     <item>
+      <title>Consistency and variability between cultures during toddlers&#39; naturalistic play</title>
+      <link>https://kachergis.github.io/publication/longcuriobaby/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/longcuriobaby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pragmatic communicators can overcome asymmetry by exploiting ambiguity</title>
       <link>https://kachergis.github.io/publication/blokpoel-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -153,6 +217,14 @@
       <link>https://kachergis.github.io/publication/de-ruiter-submitted/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/de-ruiter-submitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting deceptive agents in online games of Mafia</title>
+      <link>https://kachergis.github.io/publication/de-ruitersubmitted/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/de-ruitersubmitted/</guid>
       <description></description>
     </item>
     

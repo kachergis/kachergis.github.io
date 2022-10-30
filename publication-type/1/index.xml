@@ -5,12 +5,28 @@
     <link>https://kachergis.github.io/publication-type/1/</link>
       <atom:link href="https://kachergis.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 George Kachergis</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 George Kachergis</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kachergis.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://kachergis.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>An automated classifier for child-directed speech from LENA recordings</title>
+      <link>https://kachergis.github.io/publication/bang-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/bang-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating demographic bias on tests of children’s early vocabulary</title>
+      <link>https://kachergis.github.io/publication/kachergis-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/kachergis-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predicting children&#39;s and adults&#39; preferences in physical interactions via physics simulation</title>
