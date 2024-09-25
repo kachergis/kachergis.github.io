@@ -2,173 +2,205 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>George Kachergis</title>
-    <link>https://kachergis.github.io/</link>
-      <atom:link href="https://kachergis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>George Kachergis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 George Kachergis</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 George Kachergis</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kachergis.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu10226378635250344412.png</url>
       <title>George Kachergis</title>
-      <link>https://kachergis.github.io/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
-      <title>A longitudinal analysis of the social information in infants&#39; naturalistic visual experience using automated detections</title>
-      <link>https://kachergis.github.io/publication/long-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/long-2022/</guid>
+      <title>Comparing apples to manzanas and oranges to naranjas: A new measure of English-Spanish vocabulary for dual language learners</title>
+      <link>http://localhost:1313/publication/dll/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dll/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An automated classifier for child-directed speech from LENA recordings</title>
-      <link>https://kachergis.github.io/publication/bang-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/bang-2022/</guid>
+      <title>Learning Variability Network Exchange (LEVANTE): A global framework for measuring children’s learning variability through collaborative data sharing</title>
+      <link>http://localhost:1313/publication/levante/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/levante/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Behavioral Optimization in a Robotic Serial Reaching Task using Predictive Information</title>
-      <link>https://kachergis.github.io/publication/sen-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/sen-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating demographic bias on tests of children’s early vocabulary</title>
-      <link>https://kachergis.github.io/publication/kachergis-2022-topics/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2022-topics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating demographic bias on tests of children’s early vocabulary</title>
-      <link>https://kachergis.github.io/publication/kachergis-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peekbank: An open, large-scale repository for developmental eye-tracking data of children’s word recognition</title>
-      <link>https://kachergis.github.io/publication/zettersten-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/zettersten-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plurality is a good start, but it&#39;s time for unification</title>
-      <link>https://kachergis.github.io/publication/kachergis-2022-commentary/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2022-commentary/</guid>
+      <title>Measuring children’s early vocabulary in low-resource languages using a Swadesh-style word list</title>
+      <link>http://localhost:1313/publication/swadeshcdi/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/swadeshcdi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A critical period for robust curriculum-based deep reinforcement learning of sequential action in a robot arm</title>
-      <link>https://kachergis.github.io/publication/deeparm/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/deeparm/</guid>
+      <link>http://localhost:1313/publication/deeparm/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/deeparm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A large-scale comparison of cross-situational word learning models</title>
-      <link>https://kachergis.github.io/publication/bakeoff/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/bakeoff/</guid>
+      <link>http://localhost:1313/publication/bakeoff/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bakeoff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A longitudinal analysis of the social information in infants&#39; naturalistic visual experience using automated detections</title>
-      <link>https://kachergis.github.io/publication/saycam/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/saycam/</guid>
+      <link>http://localhost:1313/publication/long-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/long-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active learners learn what simple samplers cannot: A Zipf-distributed vocabulary from limited data</title>
+      <link>http://localhost:1313/publication/hidakasubmitted/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hidakasubmitted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An automated classifier for child-directed speech from LENA recordings</title>
+      <link>http://localhost:1313/publication/bang-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bang-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Online Computerized Adaptive Test (CAT) of Children&#39;s Vocabulary Development in English and Mexican Spanish</title>
-      <link>https://kachergis.github.io/publication/cdicat/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/cdicat/</guid>
+      <link>http://localhost:1313/publication/cdicat/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/cdicat/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Characterizing the object categories two children see and interact with in a dense dataset of naturalistic visual experience</title>
-      <link>https://kachergis.github.io/publication/babyview/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/babyview/</guid>
+      <title>Behavioral Optimization in a Robotic Serial Reaching Task using Predictive Information</title>
+      <link>http://localhost:1313/publication/sen-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sen-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Comparing apples to manzanas and oranges to naranjas: A new measure of English-Spanish vocabulary for dual language learners</title>
-      <link>https://kachergis.github.io/publication/dll/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/dll/</guid>
+      <title>Estimating demographic bias on tests of children’s early vocabulary</title>
+      <link>http://localhost:1313/publication/kachergis-2022-topics/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kachergis-2022-topics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Detecting social information in a dense database of infants&#39; natural visual experience</title>
-      <link>https://kachergis.github.io/publication/long-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/long-2021/</guid>
+      <title>Estimating demographic bias on tests of children’s early vocabulary</title>
+      <link>http://localhost:1313/publication/kachergis-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kachergis-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Exploring variation in infants&#39; preference for infant-directed speech: Evidence from a multi-site study in Africa</title>
-      <link>https://kachergis.github.io/publication/mbafrica/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/mbafrica/</guid>
+      <title>ManyBabies3: A multi-lab study of infant algebraic rule learning</title>
+      <link>http://localhost:1313/publication/visser-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/visser-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Peekbank: Exploring children&#39;s word recognition through an open, large-scale repository for developmental eye-tracking data</title>
-      <link>https://kachergis.github.io/publication/peekbank/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/peekbank/</guid>
+      <title>Peekbank: An open, large-scale repository for developmental eye-tracking data of children’s word recognition</title>
+      <link>http://localhost:1313/publication/zettersten-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zettersten-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Predicting children&#39;s and adults&#39; preferences in physical interactions via physics simulation</title>
-      <link>https://kachergis.github.io/publication/curiodrop/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/curiodrop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Toward a &#34;Standard Model&#34; of Early Language Learning</title>
-      <link>https://kachergis.github.io/publication/standard-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/standard-2021/</guid>
+      <title>Plurality is a good start, but it&#39;s time for unification</title>
+      <link>http://localhost:1313/publication/kachergis-2022-commentary/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kachergis-2022-commentary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding the impacts of video-guided activities on parent-child interaction</title>
-      <link>https://kachergis.github.io/publication/parentingobs/</link>
+      <link>http://localhost:1313/publication/parentingobs/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/parentingobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A longitudinal analysis of the social information in infants&#39; naturalistic visual experience using automated detections</title>
+      <link>http://localhost:1313/publication/saycam/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/parentingobs/</guid>
+      <guid>http://localhost:1313/publication/saycam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing the object categories two children see and interact with in a dense dataset of naturalistic visual experience</title>
+      <link>http://localhost:1313/publication/babyview/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/babyview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting social information in a dense database of infants&#39; natural visual experience</title>
+      <link>http://localhost:1313/publication/long-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/long-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring variation in infants&#39; preference for infant-directed speech: Evidence from a multi-site study in Africa</title>
+      <link>http://localhost:1313/publication/mbafrica/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mbafrica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peekbank: Exploring children&#39;s word recognition through an open, large-scale repository for developmental eye-tracking data</title>
+      <link>http://localhost:1313/publication/peekbank/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/peekbank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting children&#39;s and adults&#39; preferences in physical interactions via physics simulation</title>
+      <link>http://localhost:1313/publication/curiodrop/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/curiodrop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward a ``Standard Model&#39;&#39; of Early Language Learning</title>
+      <link>http://localhost:1313/publication/standard-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/standard-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://kachergis.github.io/post/getting-started/</link>
+      <link>http://localhost:1313/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/post/getting-started/</guid>
+      <guid>http://localhost:1313/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -189,12 +221,17 @@
 
 
 
+
+
+
+
 &lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
     &lt;/figcaption&gt;&lt;/figure&gt;
+
 &lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -243,41 +280,33 @@
     
     <item>
       <title>Consistency and variability between cultures during toddlers&#39; naturalistic play</title>
-      <link>https://kachergis.github.io/publication/long-curiobaby/</link>
+      <link>http://localhost:1313/publication/longcuriobaby/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/long-curiobaby/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Consistency and variability between cultures during toddlers&#39; naturalistic play</title>
-      <link>https://kachergis.github.io/publication/longcuriobaby/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/longcuriobaby/</guid>
+      <guid>http://localhost:1313/publication/longcuriobaby/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pragmatic communicators can overcome asymmetry by exploiting ambiguity</title>
-      <link>https://kachergis.github.io/publication/blokpoel-2020/</link>
+      <link>http://localhost:1313/publication/blokpoel-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/blokpoel-2020/</guid>
+      <guid>http://localhost:1313/publication/blokpoel-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What counts as an exemplar model, anyway? A commentary on Ambridge (2020)</title>
-      <link>https://kachergis.github.io/publication/mahowald-2020/</link>
+      <link>http://localhost:1313/publication/mahowald-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/mahowald-2020/</guid>
+      <guid>http://localhost:1313/publication/mahowald-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://kachergis.github.io/slides/example/</link>
+      <link>http://localhost:1313/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/slides/example/</guid>
+      <guid>http://localhost:1313/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -305,11 +334,10 @@
 &lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
 &lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
@@ -319,19 +347,18 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   One 
+  One
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   **Two** 
+  &lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   Three 
+  Three
 &lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -342,12 +369,11 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
 &lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
@@ -381,21 +407,19 @@ $$&lt;/p&gt;
 
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
@@ -403,450 +427,426 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Active learners learn what simple samplers cannot- A Zipf-distributed vocabulary from limited data</title>
-      <link>https://kachergis.github.io/publication/hidakasubmitted/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/hidakasubmitted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Computational and robotic models of early language development: A review</title>
-      <link>https://kachergis.github.io/publication/oudeyer-2019/</link>
+      <link>http://localhost:1313/publication/oudeyer-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/oudeyer-2019/</guid>
+      <guid>http://localhost:1313/publication/oudeyer-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting deceptive agents in online games of Mafia</title>
-      <link>https://kachergis.github.io/publication/de-ruiter-submitted/</link>
+      <link>http://localhost:1313/publication/de-ruitersubmitted/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/de-ruiter-submitted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detecting deceptive agents in online games of Mafia</title>
-      <link>https://kachergis.github.io/publication/de-ruitersubmitted/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/de-ruitersubmitted/</guid>
+      <guid>http://localhost:1313/publication/de-ruitersubmitted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence of error-driven cross-situational word learning</title>
-      <link>https://kachergis.github.io/publication/grimmick-2019/</link>
+      <link>http://localhost:1313/publication/grimmick-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/grimmick-2019/</guid>
+      <guid>http://localhost:1313/publication/grimmick-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring informal science interventions to promote children&#39;s understanding of natural categories</title>
-      <link>https://kachergis.github.io/publication/kachergis-2019/</link>
+      <link>http://localhost:1313/publication/kachergis-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2019/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>&#39;Trade-offs between category size and item distinctiveness in recognition memory for unfamiliar artificial stimuli: A model-based analysis&#39;</title>
-      <link>https://kachergis.github.io/publication/coxsubmitted/</link>
+      <link>http://localhost:1313/publication/coxsubmitted/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/coxsubmitted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anthropomorphization of artificial agents leads to fair and strategic, but not altruistic behavior</title>
-      <link>https://kachergis.github.io/publication/de-kleijn-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/de-kleijn-2018/</guid>
+      <guid>http://localhost:1313/publication/coxsubmitted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting reading strategies during task-oriented reading: Building an automated classifier</title>
-      <link>https://kachergis.github.io/publication/kielstra-2018/</link>
+      <link>http://localhost:1313/publication/kielstra-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kielstra-2018/</guid>
+      <guid>http://localhost:1313/publication/kielstra-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimized behavior in a robot model of sequential action</title>
-      <link>https://kachergis.github.io/publication/de-kleijn-2018-robo/</link>
+      <link>http://localhost:1313/publication/de-kleijn-2018-robo/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/de-kleijn-2018-robo/</guid>
+      <guid>http://localhost:1313/publication/de-kleijn-2018-robo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictive movements in human reinforcement learning of sequential action</title>
-      <link>https://kachergis.github.io/publication/de-kleijn-2018-human-rl/</link>
+      <link>http://localhost:1313/publication/de-kleijn-2018-human-rl/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/de-kleijn-2018-human-rl/</guid>
+      <guid>http://localhost:1313/publication/de-kleijn-2018-human-rl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The other human in the loop: A pilot study to find selection strategies for active learning</title>
-      <link>https://kachergis.github.io/publication/kottke-2018/</link>
+      <link>http://localhost:1313/publication/kottke-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kottke-2018/</guid>
+      <guid>http://localhost:1313/publication/kottke-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Word Learning: Associations or Hypothesis Testing?</title>
-      <link>https://kachergis.github.io/publication/kachergis-2018/</link>
+      <link>http://localhost:1313/publication/kachergis-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2018/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>&#39;Leveraging mutual exclusivity for faster cross-situational word learning: A theoretical analysis&#39;</title>
-      <link>https://kachergis.github.io/publication/hidaka-2017-me/</link>
+      <link>http://localhost:1313/publication/hidaka-2017-me/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/hidaka-2017-me/</guid>
+      <guid>http://localhost:1313/publication/hidaka-2017-me/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Children&#39;s familiarity preference in self-directed study improves recognition memory</title>
-      <link>https://kachergis.github.io/publication/adams-2017-mem/</link>
+      <link>http://localhost:1313/publication/adams-2017-mem/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/adams-2017-mem/</guid>
+      <guid>http://localhost:1313/publication/adams-2017-mem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desirable difficulties in the development of active inquiry skills</title>
-      <link>https://kachergis.github.io/publication/kachergis-2017-cog/</link>
+      <link>http://localhost:1313/publication/kachergis-2017-cog/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2017-cog/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2017-cog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Executive function and attention predict low-income preschoolers&#39; active category learning</title>
-      <link>https://kachergis.github.io/publication/adams-2017/</link>
+      <link>http://localhost:1313/publication/adams-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/adams-2017/</guid>
+      <guid>http://localhost:1313/publication/adams-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IQ and working memory predict plan-based sequential action learning</title>
+      <link>http://localhost:1313/publication/de-kleijn-2018/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/de-kleijn-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Observing and modeling developing knowledge and uncertainty during cross-situational word learning</title>
-      <link>https://kachergis.github.io/publication/kachergis-2017/</link>
+      <link>http://localhost:1313/publication/kachergis-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2017/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantifying the impact of active choice in word learning</title>
-      <link>https://kachergis.github.io/publication/hidaka-2017/</link>
+      <link>http://localhost:1313/publication/hidaka-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/hidaka-2017/</guid>
+      <guid>http://localhost:1313/publication/hidaka-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A bootstrapping model of frequency and contextual diversity effects in word learning</title>
-      <link>https://kachergis.github.io/publication/kachergis-2016/</link>
+      <link>http://localhost:1313/publication/kachergis-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2016/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Dream Model: Reactivation and re-encoding mechanisms for sleep-dependent memory consolidation</title>
-      <link>https://kachergis.github.io/publication/kachergis-2016-dream/</link>
+      <link>http://localhost:1313/publication/kachergis-2016-dream/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2016-dream/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2016-dream/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desirable difficulties in the development of active inquiry skills</title>
-      <link>https://kachergis.github.io/publication/kachergis-2016-bug/</link>
+      <link>http://localhost:1313/publication/kachergis-2016-bug/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2016-bug/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2016-bug/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human reinforcement learning of sequential action</title>
-      <link>https://kachergis.github.io/publication/kachergis-2016-human-rl/</link>
+      <link>http://localhost:1313/publication/kachergis-2016-human-rl/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2016-human-rl/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2016-human-rl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robotic action control: On the crossroads of cognitive psychology and robotics</title>
-      <link>https://kachergis.github.io/publication/de-kleijn-2015/</link>
+      <link>http://localhost:1313/publication/de-kleijn-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/de-kleijn-2015/</guid>
+      <guid>http://localhost:1313/publication/de-kleijn-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Should androids dream of electric sheep? Mechanisms for sleep-dependent memory consolidation</title>
-      <link>https://kachergis.github.io/publication/kachergis-2015/</link>
+      <link>http://localhost:1313/publication/kachergis-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2015/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A continuous time neural model for sequential action</title>
-      <link>https://kachergis.github.io/publication/kachergis-2014-neur/</link>
+      <link>http://localhost:1313/publication/kachergis-2014-neur/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2014-neur/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2014-neur/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous measure of word learning supports associative model</title>
-      <link>https://kachergis.github.io/publication/kachergis-2014/</link>
+      <link>http://localhost:1313/publication/kachergis-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2014/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-situational word learning is both implicit and strategic</title>
-      <link>https://kachergis.github.io/publication/kachergis-2014-imp/</link>
+      <link>http://localhost:1313/publication/kachergis-2014-imp/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2014-imp/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2014-imp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developing semantic knowledge through cross-situational learning</title>
-      <link>https://kachergis.github.io/publication/kachergis-2014-xsl/</link>
+      <link>http://localhost:1313/publication/kachergis-2014-xsl/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2014-xsl/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2014-xsl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Everyday robotic action: Lessons from human action control</title>
-      <link>https://kachergis.github.io/publication/de-kleijn-2014/</link>
+      <link>http://localhost:1313/publication/de-kleijn-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/de-kleijn-2014/</guid>
+      <guid>http://localhost:1313/publication/de-kleijn-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reward effects on sequential action learning in a trajectory serial reaction time task</title>
-      <link>https://kachergis.github.io/publication/kachergis-2014-srt/</link>
+      <link>http://localhost:1313/publication/kachergis-2014-srt/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2014-srt/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2014-srt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trajectory effects in a novel serial reaction time task</title>
-      <link>https://kachergis.github.io/publication/kachergis-2014-traj-srt/</link>
+      <link>http://localhost:1313/publication/kachergis-2014-traj-srt/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2014-traj-srt/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2014-traj-srt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Actively Learning Object Names Across Ambiguous Situations</title>
-      <link>https://kachergis.github.io/publication/kachergis-2013-act/</link>
+      <link>http://localhost:1313/publication/kachergis-2013-act/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2013-act/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2013-act/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More naturalistic cross-situational word learning</title>
-      <link>https://kachergis.github.io/publication/kachergis-2013-natxsl/</link>
+      <link>http://localhost:1313/publication/kachergis-2013-natxsl/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2013-natxsl/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2013-natxsl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Naturalistic word-concept pair learning with semantic spaces</title>
-      <link>https://kachergis.github.io/publication/kievit-kylar-2013/</link>
+      <link>http://localhost:1313/publication/kievit-kylar-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kievit-kylar-2013/</guid>
+      <guid>http://localhost:1313/publication/kievit-kylar-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Similarity and strategic effects in recognition memory</title>
-      <link>https://kachergis.github.io/publication/cox-2013/</link>
+      <link>http://localhost:1313/publication/cox-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/cox-2013/</guid>
+      <guid>http://localhost:1313/publication/cox-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effects of repeated sequential context on recognition memory</title>
-      <link>https://kachergis.github.io/publication/kachergis-2013/</link>
+      <link>http://localhost:1313/publication/kachergis-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2013/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Actively learning nouns across ambiguous situations</title>
-      <link>https://kachergis.github.io/publication/kachergis-2012-wp/</link>
+      <link>http://localhost:1313/publication/kachergis-2012-wp/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2012-wp/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2012-wp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An associative model of adaptive inference for learning word--referent mappings</title>
-      <link>https://kachergis.github.io/publication/kachergis-2012-gi/</link>
+      <link>http://localhost:1313/publication/kachergis-2012-gi/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2012-gi/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2012-gi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-situational Word Learning is Better Modeled by Associations than Hypotheses</title>
-      <link>https://kachergis.github.io/publication/kachergis-2012-hyp/</link>
+      <link>http://localhost:1313/publication/kachergis-2012-hyp/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2012-hyp/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2012-hyp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaussian Process Regression for Trajectory Analysis</title>
-      <link>https://kachergis.github.io/publication/cox-2012/</link>
+      <link>http://localhost:1313/publication/cox-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/cox-2012/</guid>
+      <guid>http://localhost:1313/publication/cox-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Nouns with Domain-General Associative Learning Mechanisms</title>
-      <link>https://kachergis.github.io/publication/kachergis-2012-vc/</link>
+      <link>http://localhost:1313/publication/kachergis-2012-vc/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2012-vc/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2012-vc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mechanisms for cross-situational learning of word-referent mappings: Empirical and modeling evidence</title>
-      <link>https://kachergis.github.io/publication/kachergis-2012/</link>
+      <link>http://localhost:1313/publication/kachergis-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2012/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Re-learning Labeled Categories Reveals Structured Representations</title>
-      <link>https://kachergis.github.io/publication/hendrickson-2012/</link>
+      <link>http://localhost:1313/publication/hendrickson-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/hendrickson-2012/</guid>
+      <guid>http://localhost:1313/publication/hendrickson-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Magnitude and Valence Biases in a Dynamic Memory Task</title>
-      <link>https://kachergis.github.io/publication/kachergis-2011/</link>
+      <link>http://localhost:1313/publication/kachergis-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2011/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OrBEAGLE: Integrating Orthography into a Holographic Model of the Lexicon</title>
-      <link>https://kachergis.github.io/publication/kachergis-2011-orb/</link>
+      <link>http://localhost:1313/publication/kachergis-2011-orb/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2011-orb/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2011-orb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Scalable Holographic Word-form Representation</title>
-      <link>https://kachergis.github.io/publication/cox-2011/</link>
+      <link>http://localhost:1313/publication/cox-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/cox-2011/</guid>
+      <guid>http://localhost:1313/publication/cox-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Cue Imputation Bayesian Model of Information Aggregation</title>
-      <link>https://kachergis.github.io/publication/trueblood-2010/</link>
+      <link>http://localhost:1313/publication/trueblood-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/trueblood-2010/</guid>
+      <guid>http://localhost:1313/publication/trueblood-2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive constraints and inference in cross-situational word learning</title>
-      <link>https://kachergis.github.io/publication/kachergis-2010-wg/</link>
+      <link>http://localhost:1313/publication/kachergis-2010-wg/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2010-wg/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2010-wg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-Situational Statistical Learning: Implicit or Intentional?</title>
-      <link>https://kachergis.github.io/publication/kachergis-2010-im/</link>
+      <link>http://localhost:1313/publication/kachergis-2010-im/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2010-im/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2010-im/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is categorical perception really verbally mediated perception?</title>
-      <link>https://kachergis.github.io/publication/hendrickson-2010/</link>
+      <link>http://localhost:1313/publication/hendrickson-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/hendrickson-2010/</guid>
+      <guid>http://localhost:1313/publication/hendrickson-2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simultaneous Cross-situational Learning of Category and Object Names</title>
-      <link>https://kachergis.github.io/publication/gangwani-2010-wt/</link>
+      <link>http://localhost:1313/publication/gangwani-2010-wt/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/gangwani-2010-wt/</guid>
+      <guid>http://localhost:1313/publication/gangwani-2010-wt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frequency and contextual diversity effects in cross-situational word learning</title>
-      <link>https://kachergis.github.io/publication/kachergis-2009-vu/</link>
+      <link>http://localhost:1313/publication/kachergis-2009-vu/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2009-vu/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2009-vu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temporal contiguity in cross-situational statistical learning</title>
-      <link>https://kachergis.github.io/publication/kachergis-2009-tc/</link>
+      <link>http://localhost:1313/publication/kachergis-2009-tc/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/kachergis-2009-tc/</guid>
+      <guid>http://localhost:1313/publication/kachergis-2009-tc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Depth of Field and Cautious-Greedy Routing in Social Networks</title>
-      <link>https://kachergis.github.io/publication/barbella-2007/</link>
+      <link>http://localhost:1313/publication/barbella-2007/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/barbella-2007/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://kachergis.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/admin/config.yml</guid>
+      <guid>http://localhost:1313/publication/barbella-2007/</guid>
       <description></description>
     </item>
     

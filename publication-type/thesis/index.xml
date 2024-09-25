@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thesis | George Kachergis</title>
+    <link>http://localhost:1313/publication-type/thesis/</link>
+      <atom:link href="http://localhost:1313/publication-type/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thesis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 George Kachergis</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu10226378635250344412.png</url>
+      <title>Thesis</title>
+      <link>http://localhost:1313/publication-type/thesis/</link>
+    </image>
+    
+    <item>
+      <title>Mechanisms for cross-situational learning of word-referent mappings: Empirical and modeling evidence</title>
+      <link>http://localhost:1313/publication/kachergis-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kachergis-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

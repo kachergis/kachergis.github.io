@@ -2,117 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | George Kachergis</title>
-    <link>https://kachergis.github.io/publication-type/3/</link>
-      <atom:link href="https://kachergis.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/3/</link>
+      <atom:link href="http://localhost:1313/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 George Kachergis</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 George Kachergis</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://kachergis.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu10226378635250344412.png</url>
       <title>3</title>
-      <link>https://kachergis.github.io/publication-type/3/</link>
+      <link>http://localhost:1313/publication-type/3/</link>
     </image>
     
     <item>
-      <title>A critical period for robust curriculum-based deep reinforcement learning of sequential action in a robot arm</title>
-      <link>https://kachergis.github.io/publication/deeparm/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/deeparm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A large-scale comparison of cross-situational word learning models</title>
-      <link>https://kachergis.github.io/publication/bakeoff/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/bakeoff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A longitudinal analysis of the social information in infants&#39; naturalistic visual experience using automated detections</title>
-      <link>https://kachergis.github.io/publication/saycam/</link>
+      <link>http://localhost:1313/publication/saycam/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/saycam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparing apples to manzanas and oranges to naranjas: A new measure of English-Spanish vocabulary for dual language learners</title>
-      <link>https://kachergis.github.io/publication/dll/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/dll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detecting social information in a dense database of infants&#39; natural visual experience</title>
-      <link>https://kachergis.github.io/publication/long-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/long-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring variation in infants&#39; preference for infant-directed speech: Evidence from a multi-site study in Africa</title>
-      <link>https://kachergis.github.io/publication/mbafrica/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/mbafrica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Consistency and variability between cultures during toddlers&#39; naturalistic play</title>
-      <link>https://kachergis.github.io/publication/long-curiobaby/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/long-curiobaby/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Consistency and variability between cultures during toddlers&#39; naturalistic play</title>
-      <link>https://kachergis.github.io/publication/longcuriobaby/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/longcuriobaby/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pragmatic communicators can overcome asymmetry by exploiting ambiguity</title>
-      <link>https://kachergis.github.io/publication/blokpoel-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/blokpoel-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Active learners learn what simple samplers cannot- A Zipf-distributed vocabulary from limited data</title>
-      <link>https://kachergis.github.io/publication/hidakasubmitted/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/hidakasubmitted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detecting deceptive agents in online games of Mafia</title>
-      <link>https://kachergis.github.io/publication/de-ruiter-submitted/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/de-ruiter-submitted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detecting deceptive agents in online games of Mafia</title>
-      <link>https://kachergis.github.io/publication/de-ruitersubmitted/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/de-ruitersubmitted/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&#39;Trade-offs between category size and item distinctiveness in recognition memory for unfamiliar artificial stimuli: A model-based analysis&#39;</title>
-      <link>https://kachergis.github.io/publication/coxsubmitted/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/coxsubmitted/</guid>
+      <guid>http://localhost:1313/publication/saycam/</guid>
       <description></description>
     </item>
     
