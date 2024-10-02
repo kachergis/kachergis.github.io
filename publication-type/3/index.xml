@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 | George Kachergis</title>
-    <link>http://localhost:1313/publication-type/3/</link>
-      <atom:link href="http://localhost:1313/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kachergis.github.io/publication-type/3/</link>
+      <atom:link href="https://kachergis.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 George Kachergis</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu10226378635250344412.png</url>
+      <url>https://kachergis.github.io/media/icon_hu10226378635250344412.png</url>
       <title>3</title>
-      <link>http://localhost:1313/publication-type/3/</link>
+      <link>https://kachergis.github.io/publication-type/3/</link>
     </image>
     
     <item>
       <title>A longitudinal analysis of the social information in infants&#39; naturalistic visual experience using automated detections</title>
-      <link>http://localhost:1313/publication/saycam/</link>
+      <link>https://kachergis.github.io/publication/saycam/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/saycam/</guid>
+      <guid>https://kachergis.github.io/publication/saycam/</guid>
       <description></description>
     </item>
     

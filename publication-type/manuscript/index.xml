@@ -2,93 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manuscript | George Kachergis</title>
-    <link>http://localhost:1313/publication-type/manuscript/</link>
-      <atom:link href="http://localhost:1313/publication-type/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kachergis.github.io/publication-type/manuscript/</link>
+      <atom:link href="https://kachergis.github.io/publication-type/manuscript/index.xml" rel="self" type="application/rss+xml" />
     <description>Manuscript</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 George Kachergis</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu10226378635250344412.png</url>
+      <url>https://kachergis.github.io/media/icon_hu10226378635250344412.png</url>
       <title>Manuscript</title>
-      <link>http://localhost:1313/publication-type/manuscript/</link>
+      <link>https://kachergis.github.io/publication-type/manuscript/</link>
     </image>
     
     <item>
-      <title>Comparing apples to manzanas and oranges to naranjas: A new measure of English-Spanish vocabulary for dual language learners</title>
-      <link>http://localhost:1313/publication/dll/</link>
+      <title>Learning Variability Network Exchange (LEVANTE): A global framework for measuring children’s learning variability through collaborative data sharing</title>
+      <link>https://kachergis.github.io/publication/levante/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dll/</guid>
+      <guid>https://kachergis.github.io/publication/levante/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Learning Variability Network Exchange (LEVANTE): A global framework for measuring children’s learning variability through collaborative data sharing</title>
-      <link>http://localhost:1313/publication/levante/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/levante/</guid>
+      <title>Online computerized adaptive tests of children’s vocabulary (CDI-CAT)</title>
+      <link>https://kachergis.github.io/publication/cdicat-manual/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/cdicat-manual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CDI-III</title>
+      <link>https://kachergis.github.io/publication/cdiiii/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/cdiiii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A large-scale comparison of cross-situational word learning models</title>
-      <link>http://localhost:1313/publication/bakeoff/</link>
+      <link>https://kachergis.github.io/publication/bakeoff/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bakeoff/</guid>
+      <guid>https://kachergis.github.io/publication/bakeoff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Active learners learn what simple samplers cannot: A Zipf-distributed vocabulary from limited data</title>
-      <link>http://localhost:1313/publication/hidakasubmitted/</link>
+      <link>https://kachergis.github.io/publication/hidakasubmitted/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hidakasubmitted/</guid>
+      <guid>https://kachergis.github.io/publication/hidakasubmitted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding the impacts of video-guided activities on parent-child interaction</title>
-      <link>http://localhost:1313/publication/parentingobs/</link>
+      <link>https://kachergis.github.io/publication/parentingobs/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/parentingobs/</guid>
+      <guid>https://kachergis.github.io/publication/parentingobs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring variation in infants&#39; preference for infant-directed speech: Evidence from a multi-site study in Africa</title>
-      <link>http://localhost:1313/publication/mbafrica/</link>
+      <link>https://kachergis.github.io/publication/mbafrica/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mbafrica/</guid>
+      <guid>https://kachergis.github.io/publication/mbafrica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consistency and variability between cultures during toddlers&#39; naturalistic play</title>
-      <link>http://localhost:1313/publication/longcuriobaby/</link>
+      <link>https://kachergis.github.io/publication/longcuriobaby/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/longcuriobaby/</guid>
+      <guid>https://kachergis.github.io/publication/longcuriobaby/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pragmatic communicators can overcome asymmetry by exploiting ambiguity</title>
-      <link>http://localhost:1313/publication/blokpoel-2020/</link>
+      <link>https://kachergis.github.io/publication/blokpoel-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/blokpoel-2020/</guid>
+      <guid>https://kachergis.github.io/publication/blokpoel-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting deceptive agents in online games of Mafia</title>
-      <link>http://localhost:1313/publication/de-ruitersubmitted/</link>
+      <link>https://kachergis.github.io/publication/de-ruitersubmitted/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/de-ruitersubmitted/</guid>
+      <guid>https://kachergis.github.io/publication/de-ruitersubmitted/</guid>
       <description></description>
     </item>
     
     <item>
       <title>&#39;Trade-offs between category size and item distinctiveness in recognition memory for unfamiliar artificial stimuli: A model-based analysis&#39;</title>
-      <link>http://localhost:1313/publication/coxsubmitted/</link>
+      <link>https://kachergis.github.io/publication/coxsubmitted/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/coxsubmitted/</guid>
+      <guid>https://kachergis.github.io/publication/coxsubmitted/</guid>
       <description></description>
     </item>
     
