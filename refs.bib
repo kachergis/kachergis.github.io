@@ -37,12 +37,12 @@
   abstract = {{Recent advances in recording technology provide unique opportunities to observe children’s everyday speech environments using daylong audio recordings. A number of studies have proposed that speech may support learning differently when speech is directed to a child (target child directed speech, tCDS) than when that speech is directed to others (ODS) (Shneidman & Goldin-Meadow, 2012; Weisleder & Fernald, 2013). To identify periods of tCDS and ODS, researchers typically rely on the time-consuming and laborious work of human listeners who consider numerous features when making judgments. Human listeners are also used to identify periods when children are sleeping or awake. In this paper, we detail our efforts to automate these processes. We analyzed over 1,000 hours of audio from daylong recordings of 153 English- and Spanish-speaking families in the U.S. with 17- to 28-month-old children that had been previously coded for periods of sleep, tCDS, and ODS. We first explored patterns of features that characterized periods of tCDS and ODS. Then, we evaluated two classifiers that were trained using automated measures generated from LENA, including frequency (AWC, CTC, CVC) and duration (meaningful speech, distant speech, TV, noise, silence) measures. Results revealed high sensitivity and specificity in classifying periods of sleep, and moderate sensitivity and specificity in classifying periods of tCDS and ODS. Model-derived predictions from our tCDS/ODS classifier yielded similar patterns of correlations as previously-published findings, with variation in tCDS, but not ODS, positively linked to children’s later vocabularies (Weisleder & Fernald, 2013). This work offers promising tools for streamlining work with daylong recordings, thereby facilitating research that aims to better understand how children learn from their everyday speech environments.}}
 }
 
-@unpublished{levante,
-  notes = {submitted},
-  year = {2024},
+@article{levante,
+  year = {2025},
   author = {Frank, M. C. and Baumgartner, H. and Braginsky, M. and Kachergis, G. and Others and Cubillo, A.},
   title = {Learning Variability Network Exchange (LEVANTE): A global framework for measuring children’s learning variability through collaborative data sharing},
   journal = {Child Development},
+  doi = {10.1111/cdev.70011},
   url = {https://osf.io/namx2/},
   abstract = {Despite the ubiquity of variation in child development within individuals, across groups, and across tasks, timescales, and contexts, dominant methods in developmental science and education research still favor group averages, short snapshots of time, and single environments. The Learning Variability Network Exchange (LEVANTE) is a framework designed to enable coordinated data collection by research teams worldwide, with the goal of measuring children’s variability. The LEVANTE measure set aims to capture variability in learning outcomes (literacy and numeracy) as well as in core cognitive and social constructs. LEVANTE will yield a large, open access longitudinal dataset for long-term research use, facilitating the science of learning variability and constituting the backbone of a multidisciplinary research network.}
 }
@@ -789,3 +789,59 @@ Using simulations and mathematical analysis, we show that active learners choosi
 	Year = {2012}
 }
 % Best Empirical Paper ?
+
+@article{Frank2026elife,
+  author = {Frank, M. C. and Marchman, V. A. and Bergey, C. A. and Boyce, V. and Braginsky, M. and Kachergis, G. and Others and Zettersten, M.},
+  year = {2026},
+  title = {Continuous developmental changes in word recognition and language learning across early childhood},
+  journal = {eLife},
+  doi = {10.7554/eLife.109636.3},
+  url = {https://elifesciences.org/articles/109636},
+  abstract = {Using data from Peekbank, an open database of eye-tracking experiments measuring children's word recognition, we analyzed 26 datasets from over 2,500 children ages 6 months to 6 years. Word recognition becomes faster, more accurate, and less variable across development, consistent with a process of skill learning. Factor analysis revealed covariation of word recognition speed and accuracy with children's vocabulary size, and across longitudinal models, speed, accuracy, and vocabulary were coupled. Children with overall faster word recognition tended to show faster vocabulary growth, though developmental growth in word recognition skill was not specifically associated with growth in vocabulary. These findings support viewing word recognition as a gradually developing skill intertwined with early language learning.}
+}
+
+@unpublished{Kachergis2026core,
+  author = {Kachergis, G. and O'Reilly, F. and Others and Frank, M. C.},
+  year = {2025},
+  title = {Creation and validation of the LEVANTE core tasks: Internationalized measures of learning and development for children ages 5-12 years},
+  notes = {preprint},
+  doi = {10.31234/osf.io/r4dhw_v1},
+  url = {https://doi.org/10.31234/osf.io/r4dhw_v1},
+  abstract = {We present nine short and engaging tasks designed to assess learning and development in children ages 5-12 years across a wide range of languages and cultures. Using a simple and uniform multi-alternative forced-choice format, these tasks measure constructs including math, executive function, language, reasoning, and social cognition, and can be administered on a tablet or computer, both in person and remotely, with all materials openly available. We report on their reliability and validity in a sample of 1034 children recruited from sites in Colombia, Germany, and Canada. Tasks are scored using multi-group item response theory models, allowing testing for measurement invariance, and the parameters can be used to create computer adaptive versions of the tasks, allowing the entire battery to be given in around an hour.}
+}
+
+@unpublished{Jagadish2026autocog,
+  author = {Jagadish, A. K. and Strittmatter, Y. and Jacoby, N. and Kachergis, G. and Schulz, E. and Daw, N. and Chandramouli, S. H. and Griffiths, T. L.},
+  year = {2026},
+  title = {Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist},
+  notes = {preprint},
+  url = {https://arxiv.org/abs/2606.26448},
+  abstract = {Theory generation in cognitive science has remained a manual process even as data collection, modeling, and experiment design have been automated. We present AutoCog (Automated Cognitive Scientist), a fully autonomous agentic-AI system that closes this loop: large-language-model agents advocate competing theories, each expressed as an executable cognitive model, design experiments that best discriminate them, collect behavioral data from participants recruited online, score theories against collected data based on their generative performance, diagnose why they fail, and synthesize a better successor. Tested in decision-making domains, the system recovered known strategies from simulated data and outperformed established theories when working with human participants, discovering an unconventional theory about multi-cue decision-making that subsequent preregistered research confirmed.}
+}
+
+@unpublished{Chandramouli2026adversarial,
+  author = {Chandramouli, S. H. and Kachergis, G. and Jagadish, A. K.},
+  year = {2026},
+  title = {Automated Adversarial Collaboration for Advancing Theory Building in the Cognitive Sciences},
+  notes = {preprint},
+  url = {https://arxiv.org/abs/2604.25521},
+  abstract = {Cognitive science often evaluates theories through narrow paradigms and local model comparisons, limiting the integration of evidence across tasks and realizations. We introduce an automated adversarial collaboration framework for adjudicating among competing theories even when the candidate models and experiments must be discovered during the adjudication process. The system combines LLM-based theory agents, program synthesis, and information-theoretic experimental design in a closed loop. In a simulation study spanning three classic categorization theories, the framework recovered the ground-truth theory across noise settings, with weaker reliability in the hardest settings. Together, the framework and findings provide a concrete proof of concept for closed-loop, in-silico theory adjudication in cognitive science.}
+}
+
+@inproceedings{Tan2024psychometrics,
+  author = {Tan, A. W. M. and Kachergis, G. and Frank, M. C.},
+  year = {2024},
+  title = {Using Psychometrics to Improve Cognitive Models--and Theory},
+  booktitle = {Proceedings of the 46th Annual Conference of the Cognitive Science Society},
+  url = {https://escholarship.org/uc/item/4b7364wq},
+  abstract = {The field of psychometrics has undergone substantial evolution over the past several decades, both in terms of advances in methodology and improved software and hardware for deploying new methods. Understanding and incorporating these psychometric advances is crucial to enable cognitive scientists to address growing concerns about validity and reliability, as well as to develop robust theoretical frameworks for understanding cognition.}
+}
+
+@inproceedings{Kachergis2023games,
+  author = {Kachergis, G. and Austerweil, J. L.},
+  year = {2023},
+  title = {Video games as a path to a contextualized cognitive science, or How to move beyond 20 questions with nature},
+  booktitle = {Proceedings of the 45th Annual Conference of the Cognitive Science Society},
+  url = {https://escholarship.org/uc/item/6695r26v},
+  abstract = {Newell (1973) predicted that experimental psychology's focus on falsifying theories of individual phenomena would not lead to a unifying theory subsuming several phenomena. Instead of seeking to detect effects, Newell argued psychologists should build predictive theories of behavior by modeling 1) the structure of the task environment (i.e., context), 2) the subjects' own goals, and 3) the invariant structure of the subjects' processing mechanisms. We explore how video games may serve as the complex behavioral paradigm that Newell sought, which is necessary to study in order to make progress towards a unified theory of cognition.}
+}

@@ -5,12 +5,52 @@
     <link>https://kachergis.github.io/</link>
       <atom:link href="https://kachergis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>George Kachergis</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 George Kachergis</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2026 George Kachergis</copyright><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kachergis.github.io/media/icon_hu10226378635250344412.png</url>
       <title>George Kachergis</title>
       <link>https://kachergis.github.io/</link>
     </image>
+    
+    <item>
+      <title>Automated Adversarial Collaboration for Advancing Theory Building in the Cognitive Sciences</title>
+      <link>https://kachergis.github.io/publication/chandramouli-2026-adversarial/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/chandramouli-2026-adversarial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closing the Loop to Discover Psychological Theories with an Automated Cognitive Scientist</title>
+      <link>https://kachergis.github.io/publication/jagadish-2026-autocog/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/jagadish-2026-autocog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous developmental changes in word recognition and language learning across early childhood</title>
+      <link>https://kachergis.github.io/publication/frank-2026-elife/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/frank-2026-elife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creation and validation of the LEVANTE core tasks: Internationalized measures of learning and development for children ages 5-12 years</title>
+      <link>https://kachergis.github.io/publication/kachergis-2025-core/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/kachergis-2025-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Variability Network Exchange (LEVANTE): A global framework for measuring children’s learning variability through collaborative data sharing</title>
+      <link>https://kachergis.github.io/publication/levante/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/levante/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparing apples to manzanas and oranges to naranjas: A new measure of English-Spanish vocabulary for dual language learners</title>
@@ -21,10 +61,10 @@
     </item>
     
     <item>
-      <title>Learning Variability Network Exchange (LEVANTE): A global framework for measuring children’s learning variability through collaborative data sharing</title>
-      <link>https://kachergis.github.io/publication/levante/</link>
+      <title>Using Psychometrics to Improve Cognitive Models--and Theory</title>
+      <link>https://kachergis.github.io/publication/tan-2024-psychometrics/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://kachergis.github.io/publication/levante/</guid>
+      <guid>https://kachergis.github.io/publication/tan-2024-psychometrics/</guid>
       <description></description>
     </item>
     
@@ -49,6 +89,14 @@
       <link>https://kachergis.github.io/publication/cdiiii/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/cdiiii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video games as a path to a contextualized cognitive science, or How to move beyond 20 questions with nature</title>
+      <link>https://kachergis.github.io/publication/kachergis-2023-games/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/kachergis-2023-games/</guid>
       <description></description>
     </item>
     

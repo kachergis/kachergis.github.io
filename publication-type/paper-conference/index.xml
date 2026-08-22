@@ -5,7 +5,7 @@
     <link>https://kachergis.github.io/publication-type/paper-conference/</link>
       <atom:link href="https://kachergis.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2024 George Kachergis</copyright><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><copyright>© 2026 George Kachergis</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kachergis.github.io/media/icon_hu10226378635250344412.png</url>
       <title>Paper-Conference</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Using Psychometrics to Improve Cognitive Models--and Theory</title>
+      <link>https://kachergis.github.io/publication/tan-2024-psychometrics/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/tan-2024-psychometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Measuring children’s early vocabulary in low-resource languages using a Swadesh-style word list</title>
       <link>https://kachergis.github.io/publication/swadeshcdi/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://kachergis.github.io/publication/swadeshcdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video games as a path to a contextualized cognitive science, or How to move beyond 20 questions with nature</title>
+      <link>https://kachergis.github.io/publication/kachergis-2023-games/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://kachergis.github.io/publication/kachergis-2023-games/</guid>
       <description></description>
     </item>
     
